@@ -1,0 +1,39 @@
+p {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Krona One', sans-serif;
+}
+
+h2 {
+    font-family: 'Krona One', sans-serif;
+}
+
+h3 {
+    font-family: 'Krona One', sans-serif;
+}
+
+h4 {
+    font-family: 'Josefin Sans', sans-serif;
+    color:gray;
+}
+
+small {
+    color: gray;
+}
+
+.btn {
+    border-radius: 50px !important;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.text-center {
+    text-align: center;
+    align-content: center;
+}
+
+.text-left {
+    text-align: left;
+}

@@ -1,0 +1,37 @@
+.header {
+    background-image: url('../images/header.jpg');
+    background-size: cover;
+    height:500px;
+}
+
+.headerCard {
+    background-color: #000000c2;
+    color: white;
+}
+
+.section1 {
+    background-image: url('../images/section1.jpg');
+    background-size: cover;
+    height: 600px;
+}
+
+.gold {
+    color: gold;
+}
+
+.silver {
+    color: silver;
+}
+
+.bronze {
+    color: burlywood;
+}
+
+.pale {
+    background-color: #fdffe7;
+}
+
+footer {
+    background: #2d2d2d;
+    color:white;
+}
